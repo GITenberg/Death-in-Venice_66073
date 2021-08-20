@@ -1,10 +1,13 @@
 _repo: Death-in-Venice_66073
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Burke, Kenneth
     gutenberg_agent_id: '53626'
     url: http://www.gutenberg.org/2009/agents/53626
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mann, Thomas
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Thomas_Mann
     - https://de.wikipedia.org/wiki/Thomas_Mann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66073#Death-in-Venice
 gutenberg_issued: '2021-08-16'
 gutenberg_type: Text
 identifiers:
