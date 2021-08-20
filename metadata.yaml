@@ -1,0 +1,33 @@
+_repo: Death-in-Venice_66073
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Burke, Kenneth
+    gutenberg_agent_id: '53626'
+    url: http://www.gutenberg.org/2009/agents/53626
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Thomas, Paul
+    - Mann, Paul Thomas
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Thomas_Mann
+    - https://de.wikipedia.org/wiki/Thomas_Mann
+description: ''
+gutenberg_issued: '2021-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Death in Venice
+url: http://www.gutenberg.org/ebooks/66073
